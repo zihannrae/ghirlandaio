@@ -1,4 +1,4 @@
-# penugasan kelompok 1
+# penugasan kelompok 2
 
 ## case:
 1. Jelaskan posisi teknologi sebagai mitos

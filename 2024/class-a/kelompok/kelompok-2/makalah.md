@@ -8,4 +8,4 @@
 **3. Tujuan Masalah**
 
 ## BAB 2 Pembahasan
-**1. Jelaskan posisi teknologi sebagai mitos!**
+**1. Posisi teknologi sebagai mitos!**

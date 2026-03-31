@@ -88,4 +88,4 @@ Secara keseluruhan, teknologi saat ini memiliki dua sisi. Di satu sisi, tetap da
 
 ### DAFTAR PUSTAKA
 
-Harari, Yuval Noah (2018). Homo Deus : Masa Depan Umat Manusia.  
+Harari, Y. N. (2018). *Homo Deus : Masa Depan Umat Manusia.* 

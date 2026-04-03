@@ -12,7 +12,7 @@ Metode yang saya gunakan adalah Literasi dari buku Homodeus dan juga PPT dari pe
 
 Dalam buku homodeus halaman 11-13 menjelaskan bagaimana manusia meelihat teknologi sebagai alat, mengapa dikatakan mereka melihat
 teknologi sebagai alat? dikarenakan mereka menggunakan teknologi itu untuk mengatasi hal yang sudah mereka teliti kemudian mereka 
-tau bagaimana hal itu berjalan. Hal ini merupakan titik dimana manusia memahami "bagaimana dunia ini bekerja" yang dimana mereka 
+tau bagaimana hal itu ada. Hal ini merupakan titik dimana manusia memahami "bagaimana dunia ini bekerja" yang dimana mereka 
 menggunakan pengetahuan itu untuk memperbaiki keadaan, contohnya yaitu mengatasi wabah, mereka mengetahui dan memahami
 mekanisme dari virus yang sedang terjadi, disini teknologi sebagai alat yang membantu manusia bertahan, sedangkan pada halaman 
 205-207 harari membahas bagaimana teknologi sebagai mitos agar berfungsi di masyarakat. Dengan mitos ini manusia mungkin berpikir 

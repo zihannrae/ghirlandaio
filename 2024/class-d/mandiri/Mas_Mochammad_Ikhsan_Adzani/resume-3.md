@@ -5,4 +5,7 @@
 ## Dosen Pengampu: Al Muhdil Karim, S. IP., M.Hum
 
 # Pendahuluan
-Sejarah inovasi teknologi modern muncul secara tiba-tiba, melainkan lahir dari kejamnya kompetisi. Pergeseran peradaban dari inovasi yang dikontrol ketat oleh negara menjadi invoasi yang didikte oleh pasar bebas berutang besar pada dua pemikir utama: Adam Smith dan Schumpeter. Mereka memvalidasi bahwa "Tangan Tak Terlihat" ()
+Sejarah inovasi teknologi modern muncul secara tiba-tiba, melainkan lahir dari kejamnya kompetisi. Pergeseran peradaban dari inovasi yang dikontrol ketat oleh negara menjadi invoasi yang didikte oleh pasar bebas berutang besar pada dua pemikir utama: Adam Smith dan Schumpeter. Mereka memvalidasi bahwa "Tangan Tak Terlihat" (invisible hand) dan hukum rimba oersaingan adalah compiler terbaik untuk memaksam manusia terus menciptakan teknologi baru demi satu tujuan: efisiensi dan bertahan hidup dipasar.
+
+# Pembahasna
+Secara saintifik, opini saya setuju bahwa pemikiran Adam Smith adalah dalang dari ledakan inovasi teknologi, namun saya tidak setuju jika mekanisme pasar dianggap sebagai dewa yang tidak punya cacat.

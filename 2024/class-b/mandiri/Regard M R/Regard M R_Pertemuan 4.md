@@ -35,3 +35,5 @@ Budaya hacking yang diterapkan di PARC membuat para peneliti lebih berani berpik
 ## KESIMPULAN
 Xerox PARC berhasil menghasilkan berbagai inovasi penting seperti GUI, mouse, komputer pribadi, Ethernet, dan printer laser. Inovasi-inovasi ini lahir karena adanya budaya eksperimen yang kuat, kebebasan berpikir, serta dukungan terhadap ide-ide baru. Budaya yang mirip dengan “hacking culture” membuat PARC menjadi tempat berkembangnya teknologi yang kemudian digunakan secara luas hingga saat ini. Keberhasilan PARC bukan hanya karena teknologi, tetapi juga karena budaya kerja yang mendukung kreativitas dan inovasi.
 
+## DAFTAR  PUSTAKA
+Berlin, L. (2017). Troublemakers: Silicon Valley Coming of Age. Simon & Schuster.

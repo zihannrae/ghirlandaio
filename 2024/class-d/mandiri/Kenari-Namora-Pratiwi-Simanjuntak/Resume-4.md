@@ -26,3 +26,8 @@ Meskipun perkembangan perpustakaan digital memberikan banyak keuntungan dalam ha
 
 Oleh karena itu, menjaga keamanan data perpustakaan digital adalah keharusan. Diperlukan strategi yang menyeluruh, yang mencakup peningkatan sistem teknologi, meningkatkan pengetahuan staf tentang keamanan digital, dan penerapan kebijakan perlindungan data yang jelas dan konsisten. Dengan melakukan hal-hal ini, perpustakaan digital dapat terus melakukan tugasnya sebagai penjaga dan penyebar pengetahuan secara aman dan berkelanjutan.
 
+## Referensi 
+Materi kelompok 4. (2025,17 Maret). Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis. Universitas Islam Negeri Syarif Hidayatullah Jakarta.
+Putri, C. A., Anwar, R. K., Amar, S. C. D., & Rukmana, E. N. (2024). Keamanan informasi dan privasi pengguna dalam layanan perpustakaan digital. Media Pustakawan, 31(3), 266–276. https://doi.org/10.37014/medpus.v31i3.5317
+Triandari, A. P. (2022). Studi kepustakaan: Keamanan informasi di perpustakaan digital. Visi Pustaka, 24(3), 237. https://doi.org/10.37014/visipustaka.v24i3.3175
+Program Studi Sistem & Teknologi Informasi Untag Surabaya. (2025, 17 April). 8 macam ancaman pada keamanan informasi digital. https://sistekin.untag-sby.ac.id/web/beritadetail/8-macam-ancaman-pada-keamanan-informasi-digital.html

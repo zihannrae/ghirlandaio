@@ -48,8 +48,8 @@ faktor manusia sebagai pengguna sistem menjadi salah satu penentu utaman keberha
 keamanan siber harus dipahami sebagai kombinasi antara aspek teknis dan etis, sehingga mampu menciptakan sistem yang tidak hanya aman, tetapi 
 juga adil dan bertanggung jawab.
 ## Referensi
-PPT kelompok 4 Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis
+PPT kelompok 4 Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis.
 
-Christen, M., Gordijn, B., & Loi, M. (2020). The Ethics of Cybersecurity
+Christen, M., Gordijn, B., & Loi, M. (2020). The Ethics of Cybersecurity.
 
 Azibaev, A. G. et al. (2026). Cybersecurity Risk Modeling in Library Information Infrastructure.
